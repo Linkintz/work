@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66dbf13d-dfb0-42ca-a7a7-88e6b5f0aedc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OSS6jNPOA0W51KjZdOudozzcRv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../manga" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66dbf13d-dfb0-42ca-a7a7-88e6b5f0aedc" name="Default Changelist" comment="" />
+      <created>1681552316953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681552316953</updated>
+      <workItem from="1681552319390" duration="52000" />
+      <workItem from="1681635758472" duration="2217000" />
+      <workItem from="1681987740095" duration="113000" />
+      <workItem from="1682342771170" duration="54000" />
+      <workItem from="1697113938127" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1701" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1681552348818">
+      <screen x="1366" y="-139" width="1920" height="1040" />
+    </state>
+    <state x="1701" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-139.1920.1040@1366.-139.1920.1040" timestamp="1681552348818" />
+    <state x="2106" y="135" key="FileChooserDialogImpl" timestamp="1682342823428">
+      <screen x="1366" y="-139" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="135" key="FileChooserDialogImpl/0.0.1366.728/1366.-139.1920.1040@1366.-139.1920.1040" timestamp="1682342823428" />
+    <state x="1748" y="42" key="SettingsEditor" timestamp="1681635857135">
+      <screen x="1366" y="-139" width="1920" height="1040" />
+    </state>
+    <state x="1748" y="42" key="SettingsEditor/0.0.1366.728/1366.-139.1920.1040@1366.-139.1920.1040" timestamp="1681635857135" />
+  </component>
+</project>

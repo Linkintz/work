@@ -1,0 +1,20 @@
+{% extends 'admin/change_list.html' %}
+
+{% block object-tools-items %}
+
+
+
+<!--<input type="button" value="% url 'news:detail' 3 %" name="_anotherbutton" />-->
+
+<!--<li>-->
+<!--    <form action="3/" method="POST">-->
+<!--      {% csrf_token %}-->
+<!--        <button type="submit">数据核对</button>-->
+<!--    </form>-->
+<!--</li>-->
+
+<li>
+    <a href="/news/update_data/" onclick="">数据核对</a>
+</li>
+{{ block.super }}
+{% endblock %}
